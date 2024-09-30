@@ -6,21 +6,22 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ""
 google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
+disqus: 'Goutham Reddy Blog'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
 
 # Authors
 authors:
-  sal:
+  goutham:
     name: Goutham Reddy
     display_name: Goutham Reddy
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    avatar: goutham-reddy.jpeg
+    gravatar: gouthamreddy51297
     email: contact@gouthamreddy.com
     web: https://gouthamreddy.com
     twitter: https://twitter.com/iamgouthamreddy
-    description: "Todo"
+    description: "zero"
 
 # Plugins
 plugins:
