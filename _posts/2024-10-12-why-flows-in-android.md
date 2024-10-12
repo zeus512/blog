@@ -1,4 +1,12 @@
-# **Why Do We Need Flows in Android Development?**
+---
+layout: post
+title:  "Why Do We Need Flows in Android Development? "
+author: goutham
+categories: [ kotlin, Android, development ]
+tags: [red, yellow]
+image: https://developer.android.com/static/images/kotlin/flow/flow-entities.png
+featured: true
+---
 
 In modern **Android development**, building apps efficiently and maintaining high performance are paramount. One key tool that developers use to manage **asynchronous programming** and handle dynamic data streams is **Kotlin's Flows**. Introduced as part of the **Kotlin Coroutines API**, Flows help streamline how we handle **reactive programming** in Android. But why are Flows so important in Android development? Let’s dive deep into the reasons behind their growing popularity, their usage, and how they significantly enhance development.
 
