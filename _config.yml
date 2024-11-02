@@ -22,6 +22,15 @@ authors:
     web: https://gouthamreddy.com
     twitter: https://twitter.com/iamgouthamreddy
     description: "zero"
+  umesh:
+    name: Umesh Chandra
+    display_name: Umesh Chandra
+    avatar: goutham-reddy.jpeg
+    gravatar: gouthamreddy51297
+    email: contact@gouthamreddy.com
+    web: https://gouthamreddy.com
+    twitter: https://twitter.com/iamgouthamreddy
+    description: "Devops Engineer"
 
 # Plugins
 plugins:
