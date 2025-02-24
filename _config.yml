@@ -31,6 +31,15 @@ authors:
     web: https://gouthamreddy.com
     twitter: https://twitter.com/iamgouthamreddy
     description: "Devops Engineer"
+  pragati:
+    name: Dr. Pragati Rajput
+    display_name: Dr. Pragati
+    avatar: goutham-reddy.jpeg
+    gravatar: gouthamreddy51297
+    email: contact@gouthamreddy.com
+    web: https://gouthamreddy.com
+    twitter: https://twitter.com/iamgouthamreddy
+    description: "Historian"
 
 # Plugins
 plugins:
