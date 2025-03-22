@@ -3,7 +3,7 @@ layout: post
 title:  " Journey to the Mountains "
 author: umesh
 categories: [ Trekking, Travel, Mountains ]
-image: "https://www.pinterest.com/pin/phantasmio-on-instagram-instagram-instagood-fantasy-magical-sun-light-sunlight-sunrays-sunbeam-tree-treeoflife-spiritual-spirit--386817055512891366/"
+image: "https://res.cloudinary.com/dyiffrkzh/image/upload/v1695730492/bbj/gbaf0ppp9gybaqaumgz4.jpg"
 ---
 
 ### **A Journey from Plans to Adventures**
