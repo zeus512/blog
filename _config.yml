@@ -40,6 +40,15 @@ authors:
     web: https://gouthamreddy.com
     twitter: https://twitter.com/iamgouthamreddy
     description: "Historian"
+  Charan:
+    name: Charan
+    display_name: Charan Reddy
+    avatar: goutham-reddy.jpeg
+    gravatar: gouthamreddy51297
+    email: contact@gouthamreddy.com
+    web: https://gouthamreddy.com
+    twitter: https://twitter.com/iamgouthamreddy
+    description: "zero"
 
 # Plugins
 plugins:
