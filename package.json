@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@launchdarkly/node-server-sdk": "^9.7.7"
+  }
+}
