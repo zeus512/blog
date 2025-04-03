@@ -67,8 +67,7 @@ Third Attempt: He finally succeeds after facing his fears and accepting his limi
 
 ### **Avoiding Plot Holes:The Art of Hanging a Lantern**
 
-plot holes are pretty commonly faced by any writer during the writing phase. If we do not address these plot holes, users are generally taken aback and are no more involved in the story. They keep circiling back to that one unexplained event.
-
+plot holes are pretty commonly faced by any writer during the writing phase. If we do not address these plot holes, users are generally taken aback and are no more involved in the story. They keep circling back to that one unexplained event.
 To hang a lantern on something means acknowledging the issue within the narrative itself, often through a character’s dialogue or internal monologue. You typically see this on the stage. Maybe a portion of the set is rougher than the rest… the characters might point out an old lantern in that section that hasn’t worked in years. This implies to the audience that the writer knows that there’s something there, but it’s not important for you to pay attention to as an audience member. It keeps them in the story.
 
 #### **Example: The Survival of Police Officers in The Dark Knight Rises**
