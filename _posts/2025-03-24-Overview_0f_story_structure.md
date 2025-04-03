@@ -10,8 +10,7 @@ Story structure is something which helps elevate your story. It becomes the base
 
 ### **Escalation: The driving force of Conflict**
 
-What is more important than anything in any story, a framework, sequence of events taking place? It is the confilct. The conflict and the struggle make the story. A compelling story is when the characters struggle, strive and are forced to make changes, learn from mistakes/setbacks and get back back strong. Stakes need to be increased inorder to achive these changes. Sanderson explains how to escalate using a method "Yes, But / No, And".
-
+What is more important than anything in any story, a framework, sequence of events taking place? It is the conflict. The conflict and the struggle make the story. A compelling story is when the characters struggle, strive and are forced to make changes, learn from mistakes/setbacks and get back back strong. Stakes need to be increased inorder to achive these changes. Sanderson explains how to escalate using a method "Yes, But / No, And".
 The character attempts to solve a problem (Yes), but it comes with complications.
 Or, they fail (No), and things get even worse.
 
