@@ -54,8 +54,7 @@ Attempt #2: They try a more complex or creative approach, but it also fails, oft
 
 Attempt #3: Success, but only after overcoming significant obstacles.
 
-Here the character's limitaions are revealed, the villains strengths are known and a lack of knowledge is also seen. This helps shape the protagonist to face the final obstacle. New subplots can be introduced and deepen the worldbuilding.
-
+Here the character's limitations are revealed, the villains strengths are known and a lack of knowledge is also seen. This helps shape the protagonist to face the final obstacle. New subplots can be introduced and deepen the worldbuilding.
 Example: Lets use Star Wars to illustrate the Try-Fail cycle in action.
 
 ![walking]({{ site.baseurl }}/assets/images/open-uri20150608-27674-18sx8vb_75ce646a.jpeg)
