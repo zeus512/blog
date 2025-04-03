@@ -25,8 +25,7 @@ Escalations need to be in a gradual manner, a step by step approach. What happen
 
 ### **Story Circles and the Hero’s Journey**
 
-Joseph Campbell's monomyth is the most famous narrative structure, the hero's journey. But in this article we are going to consider Dan Harmon's story circle which Sanderson says is more flexible and simpler. he circle begins with a character in a state of ignorance or comfort, who is thrust into an adventure, faces trials, gains new knowledge, and returns home transformed.
-
+Joseph Campbell's monomyth is the most famous narrative structure, the hero's journey. But in this article we are going to consider Dan Harmon's story circle which Sanderson says is more flexible and simpler. The circle begins with a character in a state of ignorance or comfort, who is thrust into an adventure, faces trials, gains new knowledge, and returns home transformed.
 #### **Key Moments in the Story Circle:**
 
 Departure: The character leaves their comfort zone.
