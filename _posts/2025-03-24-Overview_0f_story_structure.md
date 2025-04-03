@@ -42,8 +42,7 @@ Whatever genre you are going to write be it character driven or epic fantasy, pr
 
 ### **The Try-Fail Cycle: Mastering Discovery Writing**
 
-Discovery writing is something where there is no partcular outlining. It is a technique where the writer allows for the plot and characters to develop organically.
-
+Discovery writing is something where there is no particular outlining. It is a technique where the writer allows for the plot and characters to develop organically.
 The cycle goes like this: Before a character can achieve their goal, they should encounter multiple failures, each more challenging than the last. The failures should arise naturally from the plot, forcing the character to adapt and grow.
 
 #### **How the Try-Fail Cycle Works:**
