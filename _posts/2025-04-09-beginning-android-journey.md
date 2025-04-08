@@ -4,7 +4,7 @@ title: "Your Android Journey Begins: Setting Up Android Studio and Launching You
 author: goutham
 categories: [Android, Development, Setup]
 tags: [Android, Android Studio, Setup, Development, First App]
-image: https://developer.android.com/studio/images/studio-install-welcome.png
+image: https://marketing-assets.teamtreehouse.com/meta_images/production/meta_images/Beginning_Android.png
 featured: false
 ---
 

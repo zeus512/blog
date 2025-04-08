@@ -4,7 +4,7 @@ title: "Handling Permissions in Android: Best Practices for User Privacy and Sec
 author: goutham
 categories: [Android, Security, Permissions]
 tags: [Android, Permissions, Security, Development, User Privacy, SDK Version]
-image: https://developer.android.com/images/training/permissions/runtime-permissions.png
+image: https://miro.medium.com/v2/resize:fit:1200/1*E83e-FaYg3auHlmb6S5MoA.jpeg
 featured: false
 ---
 

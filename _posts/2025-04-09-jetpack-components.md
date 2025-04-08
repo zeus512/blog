@@ -4,11 +4,10 @@ title: "Exploring Android Jetpack Components: Powering Modern Apps - A Comprehen
 author: goutham
 categories: [Android, Jetpack, Components]
 tags: [Android, Jetpack, Components, Libraries, Android Development]
-image: https://developer.android.com/images/jetpack/components/architecture-components.svg
+image: https://miro.medium.com/v2/resize:fit:1400/format:webp/1*FB931aBGoALv3OLY5LSRGg.png
 featured: false
 ---
 
-## Exploring Android Jetpack Components: Powering Modern Apps - A Comprehensive Guide
 
 Are you looking to build robust, maintainable, and high-performance Android applications? Then you've likely heard of Android Jetpack. This suite of libraries has become essential for modern Android development. In this comprehensive guide, we'll explore key Android Jetpack components and how they can supercharge your apps.
 

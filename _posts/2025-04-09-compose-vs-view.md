@@ -4,7 +4,7 @@ title: "Android Compose vs. View System: A Modern Showdown - The Evolution of An
 author: goutham
 categories: [Android, UI, Compose]
 tags: [Android, Compose, View System, UI, Development]
-image: https://developer.android.com/images/jetpack/compose-layout.png
+image: https://miro.medium.com/v2/resize:fit:1400/1*WQRxb1pbDGeLnZbuDKtUXg.png 
 featured: false
 ---
 
