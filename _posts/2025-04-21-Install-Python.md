@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "í³¡ Getting Started with Python"
+title: "í³¡ Installing Python"
 author: umesh
 categories: [Python, Tutorial]
 tags: [LearnPython, PythonForBeginners, PythonTutorial]
