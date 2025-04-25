@@ -247,5 +247,4 @@ lifecycleScope.launch {
 
 Mastering the Activity lifecycle gives you fine-grained control over your app’s behavior, performance, and resource usage. Whether you're handling UI updates, loading data, or managing memory, the lifecycle methods provide the right hooks at the right time.
 
-💬 What’s next?
-Want a similar blog for Fragment lifecycle, ViewModel, or Compose lifecycles? Let me know!
+
