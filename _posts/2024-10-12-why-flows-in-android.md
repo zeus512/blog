@@ -2,7 +2,6 @@
 layout: post
 title:  "Why Do We Need Flows in Android Development? "
 author: goutham
-categories: [ kotlin, Android, development ]
 tags: [red, yellow]
 image: https://developer.android.com/static/images/kotlin/flow/flow-entities.png
 featured: true

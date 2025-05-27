@@ -1,9 +1,7 @@
 ---
 layout: post
-title: "í³¡ Installing Python"
-title: "í³¡ Getting Started with Python"
+title: "Installing Python"
 author: umesh
-categories: [Python, Tutorial]
 tags: [LearnPython, PythonForBeginners, PythonTutorial]
 image: https://kinsta.com/wp-content/uploads/2023/04/install-python-1536x768.jpg
 featured: false

@@ -2,7 +2,7 @@
 layout: post
 title:  "Setting Up raspberry pi Part 1 "
 author: goutham
-categories: [ DIY, Server-setup, development ]
+categories: [ Raspberry-pi-server-setup ]
 tags: [red, yellow]
 image: https://assets.raspberrypi.com/static/raspberry-pi-4-labelled-f5e5dcdf6a34223235f83261fa42d1e8.png
 featured: false
