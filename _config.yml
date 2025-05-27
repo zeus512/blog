@@ -1,9 +1,10 @@
 # Site
 name: "Blog"
 title: "Goutham Reddy's Blog"
-description: "My Tech Journey."
+description: "Where engineering meets ambition. A personal path toward impact through tech and civil service."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
+url: "https://blog.gouthamreddy.com"
 baseurl: ""
 google_analytics: 'UA-46278016-1'
 disqus: 'Goutham Reddy Blog'
@@ -22,7 +23,7 @@ authors:
     email: contact@gouthamreddy.com
     web: https://gouthamreddy.com
     twitter: https://twitter.com/iamgouthamreddy
-    description: "zero"
+    description: "Engineer and Civil Servant in the making."
   umesh:
     name: Umesh Chandra
     display_name: Umesh Chandra
@@ -50,15 +51,6 @@ authors:
     web: https://gouthamreddy.com
     twitter: https://twitter.com/iamgouthamreddy
     description: "Historian"
-  Charan:
-    name: Charan
-    display_name: Charan Reddy
-    avatar: goutham-reddy.jpeg
-    gravatar: gouthamreddy51297
-    email: contact@gouthamreddy.com
-    web: https://gouthamreddy.com
-    twitter: https://twitter.com/iamgouthamreddy
-    description: "zero"
 
 # Plugins
 plugins:
