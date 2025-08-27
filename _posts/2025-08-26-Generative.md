@@ -13,11 +13,11 @@ In this blog, we will walk through the term Generative AI, what it is and how it
 
 ### What is Generative AI?
 
-Generative Ai is a subset of Artificial Intelligence which often gets confused with other similar terminologies like Machine learning, neural networks and Ai itself. 
+Generative AI is a subset of Artificial Intelligence which often gets confused with other similar terminologies like Machine learning, neural networks and AI itself. 
 
 Understanding Generative AI: The layers
 
-Artificial Intelligence: Ai is the broader concept, It is basically machines performing tasks that typically require human intelligence.
+Artificial Intelligence: AI is the broader concept, It is basically machines performing tasks that typically require human intelligence.
 
 Machine Learning: Learn to identify patterns and make predictions from data.
 
@@ -28,7 +28,7 @@ Generative AI: creates new content like images, video, audio, text based on lear
 
 ### How does it work
 
-Everythimg starts with a prompt and ends with the destination thta is the answer. 
+Everythimg starts with a prompt and ends with the destination that is the answer. 
 
 1. The Prompt
 
